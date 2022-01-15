@@ -1,5 +1,4 @@
 ![Header Image](https://images.hdqwalls.com/wallpapers/bthumb/anime-girl-time-in-a-city-4k-v2.jpg)
-
 # :city_sunset: <b>Hello</b>
 
 - :computer: Working on mostly Python3, Lua, HTML, and CSS applications/webpages for now.
@@ -15,6 +14,9 @@
 - 🇮🇳 Punjabi
 - 🇯🇵 Japanese
 - 🇰🇷 Korean
+
+![](https://komarev.com/ghpvc/?username=Gagykun)
+![](https://hit.yhype.me/github/profile?user_id=36046052)
 
 <!---
 Gagykun/Gagykun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
