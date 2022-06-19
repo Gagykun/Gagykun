@@ -13,8 +13,7 @@
 - 🇺🇸 English
 - 🇯🇵 Japanese
 - 🇰🇷 Korean
-
-+1 more
+- +1 more
 
 ![](https://komarev.com/ghpvc/?username=Gagykun)
 ![](https://hit.yhype.me/github/profile?user_id=36046052)
