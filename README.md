@@ -11,14 +11,9 @@
 ## <b>Languages</b>
 
 - 🇺🇸 English
-- 🇮🇳 Punjabi
 - 🇯🇵 Japanese
 - 🇰🇷 Korean
++1 more
 
 ![](https://komarev.com/ghpvc/?username=Gagykun)
 ![](https://hit.yhype.me/github/profile?user_id=36046052)
-
-<!---
-Gagykun/Gagykun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
