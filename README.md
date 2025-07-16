@@ -11,8 +11,8 @@
 ## <b>Languages</b>
 
 - 🇺🇸 English
-- 🇯🇵 Japanese
-- 🇰🇷 Korean
+- 🇯🇵 Japanese [Learning, Basic]
+- 🇰🇷 Korean [Learning, Very Basic]
 - +1 more
 
 ![](https://komarev.com/ghpvc/?username=Gagykun)
